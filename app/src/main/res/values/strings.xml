@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PersonajesSMB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="sName">Nombre</string>
+    <string name="sDescription">Descripción</string>
+    <string name="sAbility">Habilidad</string>
+    <string name="sAbout">Acerca de...</string>
+    <string name="sAboutText">Aplicación desarrollada por</string>
+    <string name="Autor" translatable="false">Fco Abel Pelegrín Mañas</string>
+    <string name="sAccept">Aceptar</string>
+    <string name="sVersion">Versión 1.0</string>
+    <string name="sWelcome">Bienvenidos al mundo de Mario</string>
+    <string name="sSelectedCharacter">Se ha seleccionado el personaje</string>
+    <string name="sCharacterList">Lista de personajes</string>
+    <string name="sDrawerTitle">Personajes del mundo de Super Mario Bros</string>
+    <string name="sSettings">Ajustes</string>
+    <string name="sEnglish">Inglés</string>
+    <string name="sMenuOpen">Abrir Menu</string>
+    <string name="sMenuClose">Cerrar Menu</string>
+</resources>

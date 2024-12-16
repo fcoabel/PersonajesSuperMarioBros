@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PersonajesSMB" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_splashscreen_foreground</item>
+        <item name="android:windowSplashScreenAnimationDuration">2500</item>
+<!--        <item name="android:windowSplashScreenIconBackgroundColor">@color/colorPrimary</item>-->
+        <item name="android:windowSplashScreenBackground">@color/colorSplashDark</item>
+
+        <item name="colorSurface">@color/colorDarkFragment</item>
+    </style>
+</resources>

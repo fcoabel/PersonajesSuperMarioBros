@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorSplashLight">#e49a76</color>
+    <color name="colorSplashDark">#4d2b23</color>
+
+    <color name="colorLightFragment">#98F4B99A</color>
+    <color name="colorDarkFragment">#8537211D</color>
+
+    <color name="colorCardViewDark">#834e45</color>
+
+    <color name="colorComplementary">#1B6589</color>
+</resources>

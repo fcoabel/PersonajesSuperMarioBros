@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PersonajesSMB</string>
+    <string name="sName">Name</string>
+    <string name="sDescription">Description</string>
+    <string name="sAbility">Ability</string>
+    <string name="sAbout">About...</string>
+    <string name="sAboutText">App developed by</string>
+    <string name="sAccept">Accept</string>
+    <string name="sVersion">Version 1.0</string>
+    <string name="sWelcome">Welcome to Mario\'s world</string>
+    <string name="sSelectedCharacter">The selected character is</string>
+    <string name="sCharacterList">Character list</string>
+    <string name="sDrawerTitle">Super Mario Bros world\'s characters</string>
+    <string name="sSettings">Settings</string>
+    <string name="sEnglish">English</string>
+    <string name="sMenuOpen">Open Menu</string>
+    <string name="sMenuClose">Close Menu</string>
+</resources>
